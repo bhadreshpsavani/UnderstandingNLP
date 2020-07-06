@@ -7,3 +7,4 @@ RNN Blogs:
 
 LSTM:
 * [Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [LSTM Implementation](https://mlexplained.com/2019/02/15/building-an-lstm-from-scratch-in-pytorch-lstms-in-depth-part-1/)
