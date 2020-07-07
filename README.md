@@ -12,3 +12,4 @@ LSTM:
 * [time-series-forecasting-long-short-term-memory-network-python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 * [multivariate-time-series-forecasting-lstms-keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
 * [multi-step-time-series-forecasting-long-short-term-memory-networks-python/](https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/)
+* [Exploring LSTM](http://blog.echen.me/2017/05/30/exploring-lstms/)
