@@ -8,3 +8,7 @@ RNN Blogs:
 LSTM:
 * [Understanding LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [LSTM Implementation](https://mlexplained.com/2019/02/15/building-an-lstm-from-scratch-in-pytorch-lstms-in-depth-part-1/)
+* [time-series-prediction-lstm-recurrent-neural-networks-python-keras](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [time-series-forecasting-long-short-term-memory-network-python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
+* [multivariate-time-series-forecasting-lstms-keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
+* [multi-step-time-series-forecasting-long-short-term-memory-networks-python/](https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/)
