@@ -20,3 +20,6 @@ LSTM:
 Attention:
 
 * [visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+
+Transformers:
+* [illustrated-transformer](http://jalammar.github.io/illustrated-transformer/)
