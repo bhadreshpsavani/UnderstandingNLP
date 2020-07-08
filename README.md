@@ -13,3 +13,7 @@ LSTM:
 * [multivariate-time-series-forecasting-lstms-keras](https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/)
 * [multi-step-time-series-forecasting-long-short-term-memory-networks-python/](https://machinelearningmastery.com/multi-step-time-series-forecasting-long-short-term-memory-networks-python/)
 * [Exploring LSTM](http://blog.echen.me/2017/05/30/exploring-lstms/)
+
+Attention:
+
+* [visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
