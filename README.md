@@ -2,6 +2,9 @@
 
 [AI Hub](https://aihub.cloud.google.com/u/0/s)
 
+Word Embedding:
+* [What is Word Embedding](https://machinelearningmastery.com/what-are-word-embeddings/)
+
 RNN Blogs:
 * [sampling-strategies-for-recurrent-neural-networks](https://medium.com/machine-learning-at-petiteprogrammer/sampling-strategies-for-recurrent-neural-networks-9aea02a6616f)
 
