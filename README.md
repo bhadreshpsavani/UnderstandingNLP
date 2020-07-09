@@ -4,6 +4,10 @@
 
 Word Embedding:
 * [What is Word Embedding](https://machinelearningmastery.com/what-are-word-embeddings/)
+* [Word Embeddings Transform Text Numbers](https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/)
+* [king man woman queen why](https://p.migdal.pl/2017/01/06/king-man-woman-queen-why.html)
+* [word2vec-tutorial-the-skip-gram-model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
+* [word2vec-tutorial-part-2-negative-sampling/](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
 
 RNN Blogs:
 * [sampling-strategies-for-recurrent-neural-networks](https://medium.com/machine-learning-at-petiteprogrammer/sampling-strategies-for-recurrent-neural-networks-9aea02a6616f)
