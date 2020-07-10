@@ -27,3 +27,5 @@ Attention:
 
 Transformers:
 * [illustrated-transformer](http://jalammar.github.io/illustrated-transformer/)
+* [transformers-attention-in-disguise](https://www.mihaileric.com/posts/transformers-attention-in-disguise/)
+* [attention](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
