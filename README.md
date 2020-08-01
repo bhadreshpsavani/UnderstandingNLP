@@ -2,8 +2,6 @@
 
 [AI Hub](https://aihub.cloud.google.com/u/0/s)
 
-[https://bolajiayodeji.com/](https://bolajiayodeji.com) 
-
 Word Embedding:
 * [What is Word Embedding](https://machinelearningmastery.com/what-are-word-embeddings/)
 * [Word Embeddings Transform Text Numbers](https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/)
