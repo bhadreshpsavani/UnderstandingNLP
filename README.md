@@ -2,16 +2,19 @@
 
 ## Tricks and Tips:
 
-1) Download all files in Huggingface model directly 
+### Huggingface Trick:
+1)  Download all files in Huggingface model directly 
 ![download image](/images/Directly%20Download.jfif)
 
-2) QUAIL Dataset: A better question answering Benchmark
-![QUAIL dataset](/images/QUILDataset.jfif)
-
-3) Parallel Model Training:
+2) Parallel Model Training:
 ![Parallel Model Training](/images/Parallel%20Model%20Training.jfif)
 
-4) Stratified K Fold sampling for Multilabel by Abhishek Thakur:
+### General Tricks:
+
+1) QUAIL Dataset: A better question answering Benchmark
+![QUAIL dataset](/images/QUILDataset.jfif)
+
+2) Stratified K Fold sampling for Multilabel by Abhishek Thakur:
 ![Stratified Fold](/images/stratified-fold%20for%20Multilabel%20Classification.jfif)
 
 ## Links and Blogs:
