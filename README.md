@@ -14,7 +14,7 @@
 4) Stratified K Fold sampling for Multilabel by Abhishek Thakur:
 ![Stratified Fold](/images/stratified-fold%20for%20Multilabel%20Classification.jfif)
 
-## Links:
+## Links and Blogs:
 
 [AI Hub](https://aihub.cloud.google.com/u/0/s)
 
