@@ -1,5 +1,7 @@
 # NLP-Notes:
 
+This Repository contains Notebooks and Notes on NLP
+
 ## Tricks and Tips:
 
 ### Huggingface Trick:
