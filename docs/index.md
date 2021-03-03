@@ -41,4 +41,4 @@
 | --- | ---  |  --- | --- | 
 | [facebook/blenderbot-3B](https://huggingface.co/facebook/blenderbot-3B) | Bart | For open-domain chatbots | 5.1Gb |
 | [facebook/blenderbot_small-90M](https://huggingface.co/facebook/blenderbot_small-90M) | Bart | For open-domain chatbots | 334.2mb |
-| [microsoft/DialoGPT-small|Medium|Large](https://huggingface.co/microsoft/DialoGPT-small) | DialoGPT-small | Dialog Conversation | 335.0mb |
+| [microsoft/DialoGPT-small or Medium or Large](https://huggingface.co/microsoft/DialoGPT-small) | DialoGPT-small | Dialog Conversation | 335.0mb |
