@@ -1,20 +1,6 @@
 # NLP-Notes:
 
 This Repository contains Notebooks and Notes on NLP
-
-## Benchmarking:
-
-### Available Pretrained SQUAD2 Models:
-| models | Architecture | EM | F1 | Model Size |
-| --- | --- | --- | --- |  --- | 
-| [roberta-base-squad2](https://huggingface.co/deepset/roberta-base-squad2) | Roberta-base | 79.97136359807968 | 83.00449234495325 | 474.3mb |
-| [xlm-roberta-large-squad2](https://huggingface.co/deepset/xlm-roberta-large-squad2) | xlm-roberta-large | 79.45759285774446 | 83.79259828925511 | 2.1Gb |
-| [electra-base-squad2](https://huggingface.co/deepset/electra-base-squad2) | Electra-base | 77.30144024256717 | 81.35438272008543 | 415.4mb |
-| [microsoft/MiniLM-L12-H384-uncased](https://huggingface.co/deepset/minilm-uncased-squad2)| minilm-uncased | 76.13071675229513 | 79.49786500219953 | 127.3mb |
-| [T5-base-for-BioQA](https://huggingface.co/ozcangundes/T5-base-for-BioQA) | T5-base | 76.13071675229513 | 79.49786500219953 | 850.4mb |
-| [google/mobilebert-uncased](https://huggingface.co/mrm8488/mobilebert-uncased-finetuned-squadv2) | Mobilebert | 75.37 | 78.48 | 94mb |
-| [xlm-roberta-base-squad2](https://huggingface.co/deepset/xlm-roberta-base-squad2) | xlm-roberta-base | 73.91560683904657 | 77.14103746689592 | 1Gb |
-
  
 ## Tricks and Tips:
 
