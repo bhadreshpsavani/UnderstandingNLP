@@ -34,3 +34,11 @@
 | --- | ---  |  --- | --- | 
 | [microsoft/SportsBERT](https://huggingface.co/microsoft/SportsBERT) | BERT | sports articles | 357.5mb |
 | [microsoft/BiomedNLP-PubMedBERT-base-uncased](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext) | BERT | Abstracts from PubMed and full-text articles from PubMedCentral |  420.1mb | 
+
+## Chatbot Opendomain Conversation Models:
+
+| models | Architecture | Language Modeling Domain | Model Size |
+| --- | ---  |  --- | --- | 
+| [facebook/blenderbot-3B](https://huggingface.co/facebook/blenderbot-3B) | Bart | For open-domain chatbots | 5.1Gb |
+| [facebook/blenderbot_small-90M](https://huggingface.co/facebook/blenderbot_small-90M) | Bart | For open-domain chatbots | 334.2mb |
+| [microsoft/DialoGPT-small|Medium|Large](https://huggingface.co/microsoft/DialoGPT-small) | DialoGPT-small | Dialog Conversation | 335.0mb |
