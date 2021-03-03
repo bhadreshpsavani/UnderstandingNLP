@@ -1,8 +1,6 @@
-# NLP-Notes:
+# Opensource Model Details:
 
-This Repository contains Notebooks and Notes on NLP
-
-## Opensource Model Details:
+## SQUAD2:
 
 ### Domain Specific SQUAD2 Finetuned Model:
 
