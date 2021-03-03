@@ -11,7 +11,9 @@ This Repository contains Notebooks and Notes on NLP
 | [ktrapeznikov/biobert_v1.1_pubmed_squad_v2](https://huggingface.co/ktrapeznikov/biobert_v1.1_pubmed_squad_v2) | BioBert | 75.97068980038743 | 79.37043950121722 | 413.2mb |
 | [ktrapeznikov/scibert_scivocab_uncased_squad_v2](https://huggingface.co/ktrapeznikov/scibert_scivocab_uncased_squad_v2) | SciBert | 75.07790785816559 | 78.47735207283013 | 419.4mb|
 
+
 ### Available Pretrained SQUAD2 Models:
+
 | models | Architecture | EM | F1 | Model Size |
 | --- | --- | --- | --- |  --- | 
 | [ktrapeznikov/albert-xlarge-v2-squad-v2](https://huggingface.co/ktrapeznikov/albert-xlarge-v2-squad-v2) | albert-xlarge | **84.41842836688285** | **87.4628460501696** | 224mb |
@@ -27,28 +29,38 @@ This Repository contains Notebooks and Notes on NLP
 | [twmkn9/distilroberta-base-squad2](https://huggingface.co/twmkn9/distilroberta-base-squad2) | distilroberta-base | 70.9279368213228 |  74.60439802429168 | 313.3 |
 | [twmkn9/distilbert-base-uncased-squad2](https://huggingface.co/twmkn9/distilbert-base-uncased-squad2) | distilbert-base | 64.88976637051661 |  68.1776176526635 | 253.2mb |
 
+
 ## Domain Specific Language Model:
+
 | models | Architecture | Language Modeling Domain | Model Size |
 | --- | ---  |  --- | --- | 
 | [microsoft/SportsBERT](https://huggingface.co/microsoft/SportsBERT) | BERT | sports articles | 357.5mb |
 | [microsoft/BiomedNLP-PubMedBERT-base-uncased](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext) | BERT | Abstracts from PubMed and full-text articles from PubMedCentral |  420.1mb | 
+
 
  
 ## Tricks and Tips:
 
 ### Huggingface Trick:
 1)  Download all files in Huggingface model directly 
+
 ![download image](/images/Directly%20Download.jfif)
 
 2) Parallel Model Training:
+
+
 ![Parallel Model Training](/images/Parallel%20Model%20Training.jfif)
 
 ### General Tricks:
 
 1) QUAIL Dataset: A better question answering Benchmark
+
+
 ![QUAIL dataset](/images/QUILDataset.jfif)
 
 2) Stratified K Fold sampling for Multilabel by Abhishek Thakur:
+
+
 ![Stratified Fold](/images/stratified-fold%20for%20Multilabel%20Classification.jfif)
 
 ## Links and Blogs:
