@@ -23,6 +23,9 @@ This Repository contains Notebooks and Notes on NLP
 
 [AI Hub](https://aihub.cloud.google.com/u/0/s)
 
+Topic Modeling:
+* [Text Extraction and Topic Modeling](https://blog.quant-quest.com/using-topic-modelling-to-analyse-10-k-filings/)
+
 Word Embedding:
 * [What is Word Embedding](https://machinelearningmastery.com/what-are-word-embeddings/)
 * [Word Embeddings Transform Text Numbers](https://monkeylearn.com/blog/word-embeddings-transform-text-numbers/)
