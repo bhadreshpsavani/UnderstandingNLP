@@ -19,6 +19,9 @@ This Repository contains Notebooks and Notes on NLP
 2) Stratified K Fold sampling for Multilabel by Abhishek Thakur:
 ![Stratified Fold](/images/stratified-fold%20for%20Multilabel%20Classification.jfif)
 
+3) Watch GPU and Memory uses Every second in the terminal:
+`watch -n 1 nvidia-smi`
+
 ## Links and Blogs:
 
 [AI Hub](https://aihub.cloud.google.com/u/0/s)
